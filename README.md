@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaden Ma</h1>
-<h3 align="center">A mechanical engineering student at UCI</h3>
+<h3 align="center">A Mechanical Engineering student at UCI</h3>
 
 - 👨‍💻 All of my projects are available at [https://jadenma.carrd.co/](https://jadenma.carrd.co/)
 
-- 📫 How to reach me **joannm7@uci.edu**
+- 📫 How to reach me: **joannm7@uci.edu** **[linkedin.com](www.linkedin.com/in/jaden-ma-4354062a8)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
