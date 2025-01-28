@@ -3,10 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [https://jadenma.carrd.co/](https://jadenma.carrd.co/)
 
- **joannm7@uci.edu** **[linkedin.com](www.linkedin.com/in/jaden-ma-4354062a8)**
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">  **joannm7@uci.edu** **[linkedin.com](www.linkedin.com/in/jaden-ma-4354062a8)**
+<p align="left">  **joannm7@uci.edu** 
+<p align="left">  **[linkedin](www.linkedin.com/in/jaden-ma-4354062a8)**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
